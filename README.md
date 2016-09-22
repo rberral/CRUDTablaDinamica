@@ -11,6 +11,7 @@ Caracteristicas añadidas a la tabla:
 
 
 Librerias utilizadas:
+- JDBC connector (.jar).
 - JQuery.
 - Bootstrap.
 - Bootstrap-table.
